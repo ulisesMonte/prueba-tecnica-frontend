@@ -3,6 +3,7 @@
 recursos:
 
 https://github.com/midudev/aprendiendo-react
+https://devdocs.io/react/
 
 IMPORTANTE: para el boton usar plugin ES7 de react
 
