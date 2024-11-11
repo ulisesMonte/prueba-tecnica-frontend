@@ -1,0 +1,13 @@
+[{
+    "id":1,
+    "assignment":"crear to-do list",
+    "completed":true
+},{
+    "id":2,
+    "assignment":"api en node",
+    "completed":false
+},{
+    "id":3,
+    "assignment":"crear base de datos",
+    "completed":false
+}]

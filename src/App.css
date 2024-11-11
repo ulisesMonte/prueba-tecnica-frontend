@@ -1,0 +1,23 @@
+.container{
+  margin:20px auto;
+  width:50%;
+  border:1px solid #73AD21;
+  background-color: #6cbb68;
+  padding:10px;
+}
+.pending-tasks {
+  font-size: 1.5rem;
+  color: #3b5d3b;
+  margin-bottom: 10px;
+}
+
+.add-btn{
+  float:right;
+  background-color: rgb(8, 10, 12);
+  color:#ffffff;
+}
+.add-btn:hover{
+  float:right;
+  background-color: rgb(47, 62, 76);
+  color:#ffffff;
+}
